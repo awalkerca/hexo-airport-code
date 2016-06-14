@@ -1,0 +1,8 @@
+{
+  "name": "hexo-airport-code",
+  "version": "0.0.1",
+  "main": "index",
+  "dependencies": {
+    "airport-codes": "^1.0.2"
+  }
+}
